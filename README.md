@@ -1,4 +1,4 @@
-DISCLAIMER: *** NOT MY END TO END PRPJECT : learnt and from coursera and tried to implement *** 
+DISCLAIMER: *** NOT MY END TO END PRPJECT : learnt and tried to implement from coursera *** 
 
 In this project, a program developed in Python that is able to extract text from images and video using Tensorflow, OpenCV, and Tesseract. 
 Tasks Covered:
